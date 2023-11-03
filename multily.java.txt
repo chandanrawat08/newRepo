@@ -1,0 +1,5 @@
+class a{
+main(String args[])
+public multiply()
+{
+syso(a*b)}}
